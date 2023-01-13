@@ -107,9 +107,9 @@ To build and run your sample:
    
 # Notes
 
-Forked for
-https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin
-in samples/core/extensions/AppWithPlugin/
+Forked for  
+https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin  
+in samples/core/extensions/AppWithPlugin/  
 https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support
 
 
