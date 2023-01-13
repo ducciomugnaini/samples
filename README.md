@@ -112,4 +112,8 @@ https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin
 in samples/core/extensions/AppWithPlugin/  
 https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support
 
+And for  
+https://learn.microsoft.com/en-us/dotnet/standard/assembly/unloadability  
+in samples/core/tutorials/Unloading/  
+
 
