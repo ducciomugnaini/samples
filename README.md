@@ -122,18 +122,21 @@ https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin
 samples/core/extensions/AppWithPlugin/
 
 Knowledge
-General Theory About System.Runtime.Loader.AssemblyLoadContext
-The AssemblyLoadContext represents a load context. Conceptually, a load context creates a scope for loading, resolving, and potentially unloading a set of assemblies.
-The AssemblyLoadContext exists primarily to provide assembly loading isolation. It allows multiple versions of the same assembly to be loaded within a single process. It replaces the isolation mechanisms provided by multiple AppDomain instances in .NET Framework.
+General Theory About System.Runtime.Loader.AssemblyLoadContext  
+The AssemblyLoadContext represents a load context.  
+Conceptually, a load context creates a scope for loading, resolving, and potentially unloading a set of assemblies.  
+The AssemblyLoadContext exists primarily to provide assembly loading isolation.  
+It allows multiple versions of the same assembly to be loaded within a single process.  
+It replaces the isolation mechanisms provided by multiple AppDomain instances in .NET Framework.  
 :: https://learn.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext
 
-Reading order for knowledge AssemblyLoadContext
-https://stackoverflow.com/questions/63616618/how-to-dynamically-load-and-unload-reload-a-dll-assembly)
-https://learn.microsoft.com/en-us/dotnet/api/system.runtime.loader.assemblyloadcontext?view=net-5.0
-https://learn.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext
-https://learn.microsoft.com/en-us/dotnet/standard/assembly/unloadability
-https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support
-https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin
+Reading order for knowledge AssemblyLoadContext  
+https://stackoverflow.com/questions/63616618/how-to-dynamically-load-and-unload-reload-a-dll-assembly)  
+https://learn.microsoft.com/en-us/dotnet/api/system.runtime.loader.assemblyloadcontext?view=net-5.0  
+https://learn.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext  
+https://learn.microsoft.com/en-us/dotnet/standard/assembly/unloadability  
+https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support  
+https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin  
 
 
 
