@@ -116,12 +116,12 @@ And for
 https://learn.microsoft.com/en-us/dotnet/standard/assembly/unloadability  
 in samples/core/tutorials/Unloading/  
 
-And for Plugin Architecture
-https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support
-https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin
-samples/core/extensions/AppWithPlugin/
+And for Plugin Architecture  
+https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support  
+https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin  
+samples/core/extensions/AppWithPlugin/  
 
-Knowledge
+Knowledge  
 General Theory About System.Runtime.Loader.AssemblyLoadContext  
 The AssemblyLoadContext represents a load context.  
 Conceptually, a load context creates a scope for loading, resolving, and potentially unloading a set of assemblies.  
