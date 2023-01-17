@@ -131,12 +131,12 @@ It replaces the isolation mechanisms provided by multiple AppDomain instances in
 :: https://learn.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext
 
 Reading order for knowledge AssemblyLoadContext  
-https://stackoverflow.com/questions/63616618/how-to-dynamically-load-and-unload-reload-a-dll-assembly)  
-https://learn.microsoft.com/en-us/dotnet/api/system.runtime.loader.assemblyloadcontext?view=net-5.0  
-https://learn.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext  
-https://learn.microsoft.com/en-us/dotnet/standard/assembly/unloadability  
-https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support  
-https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin  
+:: https://stackoverflow.com/questions/63616618/how-to-dynamically-load-and-unload-reload-a-dll-assembly)  
+:: https://learn.microsoft.com/en-us/dotnet/api/system.runtime.loader.assemblyloadcontext?view=net-5.0  
+:: https://learn.microsoft.com/en-us/dotnet/core/dependency-loading/understanding-assemblyloadcontext  
+:: https://learn.microsoft.com/en-us/dotnet/standard/assembly/unloadability  
+:: https://learn.microsoft.com/en-us/dotnet/core/tutorials/creating-app-with-plugin-support  
+:: https://github.com/dotnet/samples/tree/main/core/extensions/AppWithPlugin  
 
 
 
